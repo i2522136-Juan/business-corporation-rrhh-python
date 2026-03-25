@@ -1,0 +1,25 @@
+FLUJO DEL SISTEMA EN PSEUDOCÓDIGO
+
+1. Iniciar aplicación.
+2. Crear repositorio de trabajadores.
+3. Registrar gerente general.
+4. Registrar cinco jefes de área.
+5. Para cada área:
+   5.1 Registrar asistentes.
+   5.2 Registrar técnicos.
+6. Validar límites por área.
+7. Mostrar menú principal.
+8. Si el usuario elige resumen:
+   8.1 Mostrar indicadores generales.
+9. Si el usuario elige listado:
+   9.1 Mostrar tabla de trabajadores.
+10. Si el usuario elige consulta por área:
+   10.1 Filtrar trabajadores.
+   10.2 Mostrar resultado.
+11. Si el usuario elige ficha individual:
+   11.1 Buscar trabajador.
+   11.2 Mostrar resumen, jefe inmediato y estado.
+12. Si el usuario elige validación:
+   12.1 Comprobar reglas del negocio.
+   12.2 Mostrar resultados.
+13. Fin.
